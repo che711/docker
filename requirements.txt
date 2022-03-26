@@ -1,0 +1,6 @@
+﻿pytest
+requests
+selenium
+allure-pytest
+chromedriver
+
